@@ -19,4 +19,6 @@
 17. Anomaly Detection and Recommender Systems
 18. Large Scale Machine Learning
 19. Application Example: Photo OCR
+# Certificate
+https://www.coursera.org/account/accomplishments/verify/YYKSEGTHNNQA
 
